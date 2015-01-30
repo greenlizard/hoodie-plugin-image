@@ -22,9 +22,10 @@ Hoodie.extend(function (hoodie) {
 
   hoodie.image = {
 
-    upload: function (base64, /*opitional*/meta, /*opitional*/id) {
-      if (!id)
-        id = guid();
+    upload: function (base64, /*opitional*/ prefix, /*opitional*/ userData) {
+
+      prefix = prefix || '';
+      prefix = prefix + guid();
       var defer = window.jQuery.Deferred();
       if (!base64)
         defer.reject(new Error({message: 'the image is empty'}));
@@ -32,7 +33,8 @@ Hoodie.extend(function (hoodie) {
       var task = {
         image: {
           base64: base64,
-          id: id
+          id: prefix,
+          userData: userData
         }
       };
       hoodie.task('cordovaimageupload').start(task)

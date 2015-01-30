@@ -27,5 +27,7 @@ for cordova/phonegap users
 ```
 
 ## API
-### hoodie.image.upload(base64, /*opitional*/meta, /*opitional*/id)
+### upload: function (base64, /*opitional*/ prefix, /*opitional*/ userData)
 return url
+
+save ref on data base of plugin
