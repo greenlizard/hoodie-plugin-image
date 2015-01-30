@@ -22,7 +22,7 @@ Hoodie.extend(function (hoodie) {
 
   hoodie.image = {
 
-    upload: function (base64, id) {
+    upload: function (base64, /*opitional*/meta, /*opitional*/id) {
       if (!id)
         id = guid();
       var defer = window.jQuery.Deferred();
