@@ -40,6 +40,7 @@ Hoodie.extend(function (hoodie) {
       hoodie.task('cordovaimageupload').start(task)
         .then(defer.resolve)
         .fail(defer.reject);
+      hoodie.remote.push();
       return defer.promise();
     }
 
