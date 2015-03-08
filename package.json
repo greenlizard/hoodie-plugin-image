@@ -56,7 +56,7 @@
     "cordova",
     "facebook",
     "oauth",
-    "goappes",
+    "greenlizard",
     "plugin"
   ],
   "scripts": {
@@ -64,39 +64,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:goappes/hoodie-plugin-image.git"
+    "url": "git@github.com:greenlizard/hoodie-plugin-image.git"
   },
-  "author": "GoAppes <apes@goappes.com>",
+  "author": "Gabriel Mancini <gabriel@greenlizard.com.br>",
   "contributors": [
     {
-      "name": "GoAppes",
-      "email": "apes@goappes.com"
-    },
-    {
       "name": "Gabriel Mancini",
-      "email": "gabriel@goappes.com"
+      "email": "gabriel@greenlizard.com.br"
     },
     {
       "name": "João Neto",
-      "email": "joao@goappes.com"
-    },
-    {
-      "name": "Italo Amorim",
-      "email": "italo@goappes.com"
+      "email": "joao@greenlizard.com.br"
     }
   ],
   "maintainers": [
     {
       "name": "Gabriel Mancini",
-      "email": "gabriel@goappes.com"
+      "email": "gabriel@greenlizard.com.br"
     },
     {
       "name": "João Neto",
-      "email": "joao@goappes.com"
-    },
-    {
-      "name": "Italo Amorim",
-      "email": "italo@goappes.com"
+      "email": "joao@greenlizard.com.br"
     }
   ]
 }

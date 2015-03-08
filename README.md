@@ -1,7 +1,7 @@
 hoodie-plugin-image
 =======================
 
-[![Build Status](https://travis-ci.org/goappes/hoodie-plugin-image.svg?branch=master)](https://travis-ci.org/goappes/hoodie-plugin-image) [![Dependencies](https://david-dm.org/goappes/hoodie-plugin-image.png)](https://david-dm.org/goappes/hoodie-plugin-image) [![devDependency Status](https://david-dm.org/goappes/hoodie-plugin-image/dev-status.svg)](https://david-dm.org/goappes/hoodie-plugin-image#info=devDependencies) [![Code Climate](https://codeclimate.com/github/goappes/hoodie-plugin-notification/badges/gpa.svg)](https://codeclimate.com/github/goappes/hoodie-plugin-image)
+[![Build Status](https://travis-ci.org/greenlizard/hoodie-plugin-image.svg?branch=master)](https://travis-ci.org/greenlizard/hoodie-plugin-image) [![Dependencies](https://david-dm.org/greenlizard/hoodie-plugin-image.png)](https://david-dm.org/greenlizard/hoodie-plugin-image) [![devDependency Status](https://david-dm.org/greenlizard/hoodie-plugin-image/dev-status.svg)](https://david-dm.org/greenlizard/hoodie-plugin-image#info=devDependencies) [![Code Climate](https://codeclimate.com/github/greenlizard/hoodie-plugin-notification/badges/gpa.svg)](https://codeclimate.com/github/greenlizard/hoodie-plugin-image)
 
 ## Dependencies
 fist of all create a bucket on amazon

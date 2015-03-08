@@ -81,7 +81,7 @@
 33 error 404 tarball, folder, or http url, or git url.
 34 error System Linux 3.16.0-4-amd64
 35 error command "/home/gabriel/.nvm/v0.10.34/bin/node" "/home/gabriel/.nvm/v0.10.34/bin/npm" "link" "hoodie-plugin-image"
-36 error cwd /home/gabriel/Documents/github/goappes/hoodie-plugin-image
+36 error cwd /home/gabriel/Documents/github/greenlizard/hoodie-plugin-image
 37 error node -v v0.10.34
 38 error npm -v 1.4.28
 39 error code E404
