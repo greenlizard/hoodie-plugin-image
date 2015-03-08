@@ -1,6 +1,6 @@
 {
   "name": "hoodie-plugin-image",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Cordova image Hoodie plugin",
   "main": "worker.js",
   "dependencies": {
